@@ -1,0 +1,1 @@
+[10-Mar-2020 06:12:10 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/generated/harhama_php_login_system2020-03-10_06-12/includes/connect.php:6) in /home3/harhama/public_html/generated/harhama_php_login_system2020-03-10_06-12/login.php on line 10

@@ -1,0 +1,490 @@
+[30-Jan-2020 08:19:58 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[30-Jan-2020 08:26:22 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[30-Jan-2020 08:27:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:27:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:30:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:30:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:30:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:30:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:30:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:30:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:31:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:31:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:31:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:31:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:36:12 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:36:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:37:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:37:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:38:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:38:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:38:07 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:38:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:40:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:40:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:49:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:49:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:49:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:49:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:50:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:50:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:51:33 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:51:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:51:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:51:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:52:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:52:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:52:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:52:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:55:58 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:55:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:56:01 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[30-Jan-2020 08:56:01 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[30-Jan-2020 08:56:13 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[30-Jan-2020 08:56:13 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[30-Jan-2020 08:56:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:56:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:56:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:56:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:56:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:56:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 08:59:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 08:59:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:01:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:01:15 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:01:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:01:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:04:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:04:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:04:32 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:04:32 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:06:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:06:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:06:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:06:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:08:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:08:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:09:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:09:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:10:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:10:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:11:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:11:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:13:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:13:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:17:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:17:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:18:19 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:18:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:18:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:18:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:20:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:20:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:27:06 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:27:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:27:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:27:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:27:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:27:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:28:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:28:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:28:29 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:28:29 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:28:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:28:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:28:45 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[30-Jan-2020 09:28:45 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[30-Jan-2020 09:28:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:28:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:29:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:29:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:29:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:29:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:29:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:29:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:32:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:32:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:32:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:32:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:32:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:32:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:34:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:34:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:34:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:34:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:35:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:35:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:35:51 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[30-Jan-2020 09:35:51 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[30-Jan-2020 09:35:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:35:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:46:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:46:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:47:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:47:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:49:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:49:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:50:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:50:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:51:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:51:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:52:47 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:52:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:53:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:53:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:53:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:53:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:53:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:53:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:53:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:53:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:54:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:54:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:58:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:58:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 09:58:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 09:58:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:03:52 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:03:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:03:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:03:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:03:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:03:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:03:59 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:03:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:04:02 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:04:02 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:04:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:04:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:10:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:10:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:10:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:10:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:13:11 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:13:11 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:17:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:17:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:27:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:27:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:29:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:29:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:29:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:29:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:29:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:29:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:30:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:30:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:30:39 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:30:39 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:37:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:37:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:43:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:43:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 10:47:20 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 10:47:20 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 11:05:00 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:05:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 11:06:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:06:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:07:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:07:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:09:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:09:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:14:57 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:14:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:16:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:16:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:16:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:16:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:16:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:16:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 68
+[30-Jan-2020 11:16:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:16:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 11:37:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:37:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 11:37:48 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:37:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 11:58:38 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 11:58:38 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 16:30:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 16:30:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 16:31:04 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 16:31:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 16:31:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 16:31:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 16:39:56 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 16:39:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 19:50:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 19:50:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 19:50:41 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 19:50:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 20:56:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 20:56:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[30-Jan-2020 20:56:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[30-Jan-2020 20:56:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 04:07:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 04:07:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 04:07:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 04:07:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 05:16:05 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 05:16:05 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 08:43:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 08:43:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 08:43:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 08:43:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 19:08:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 19:08:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[31-Jan-2020 19:08:24 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[31-Jan-2020 19:08:24 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[01-Feb-2020 07:37:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[01-Feb-2020 07:37:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[01-Feb-2020 07:37:01 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[01-Feb-2020 07:37:01 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[01-Feb-2020 16:03:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[01-Feb-2020 16:03:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[01-Feb-2020 16:03:45 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[01-Feb-2020 16:03:45 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[02-Feb-2020 01:09:15 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[02-Feb-2020 01:09:15 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[02-Feb-2020 01:09:16 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[02-Feb-2020 01:09:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[02-Feb-2020 01:15:35 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[02-Feb-2020 01:15:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[02-Feb-2020 14:07:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[02-Feb-2020 14:07:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[02-Feb-2020 14:07:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[02-Feb-2020 14:07:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 02:37:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 02:37:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 02:37:09 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 02:37:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 14:58:49 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 14:58:49 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 15:36:27 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 15:36:27 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 15:36:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 15:36:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:01:08 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:01:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:01:37 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:01:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:19:17 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:19:17 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:22:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:22:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:22:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:22:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:23:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:23:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:24:51 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:24:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[03-Feb-2020 23:28:46 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[03-Feb-2020 23:28:46 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 00:58:23 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 00:58:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:01:10 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:01:10 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:01:34 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:01:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:01:40 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:01:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:02:42 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:02:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:02:44 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:02:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:03:25 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:03:25 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:04:53 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:04:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:04:54 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:04:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:06:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:06:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:07:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:08:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:08:15 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:08:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:08:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:08:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:09:15 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:09:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:11:19 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:12:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:12:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:12:18 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama1'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:12:28 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 01:12:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:12:41 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:13:18 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:13:23 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:13:31 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[04-Feb-2020 01:13:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[04-Feb-2020 01:13:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:15:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:16:47 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:16:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:16:59 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:17:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:17:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:17:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:21:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:23:04 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:23:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:24:51 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama_haha'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:24:59 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama_haha'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:25:07 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama_haha'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:25:32 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama_haha'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:26:20 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'harhama_haha'@'localhost' (using password: YES) in /home3/harhama/public_html/php/CreateDb.php on line 30
+[04-Feb-2020 01:26:31 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:27:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:27:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:27:57 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:30:42 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:31:12 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:31:50 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:32:51 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:32:52 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:32:56 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:34:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:34:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:34:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:34:44 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:37:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:40:25 America/Chicago] PHP Recoverable fatal error:  Object of class CreateDb could not be converted to string in /home3/harhama/public_html/php/CreateDb.php on line 64
+[04-Feb-2020 01:40:41 America/Chicago] PHP Parse error:  syntax error, unexpected '$this' (T_VARIABLE) in /home3/harhama/public_html/php/CreateDb.php on line 64
+[04-Feb-2020 01:41:12 America/Chicago] PHP Recoverable fatal error:  Object of class CreateDb could not be converted to string in /home3/harhama/public_html/php/CreateDb.php on line 64
+[04-Feb-2020 01:41:39 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:41:45 America/Chicago] PHP Recoverable fatal error:  Object of class CreateDb could not be converted to string in /home3/harhama/public_html/php/CreateDb.php on line 64
+[04-Feb-2020 01:41:53 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:42:15 America/Chicago] PHP Recoverable fatal error:  Object of class CreateDb could not be converted to string in /home3/harhama/public_html/php/CreateDb.php on line 64
+[04-Feb-2020 01:42:26 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:43:20 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/harhama/public_html/php/CreateDb.php on line 70
+[04-Feb-2020 01:43:28 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/harhama/public_html/php/CreateDb.php on line 71
+[04-Feb-2020 01:43:33 America/Chicago] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home3/harhama/public_html/php/CreateDb.php on line 71
+[04-Feb-2020 01:43:40 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:46:47 America/Chicago] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC), expecting end of file in /home3/harhama/public_html/php/CreateDb.php on line 29
+[04-Feb-2020 01:47:26 America/Chicago] PHP Fatal error:  Uncaught Error: Class 'CreateDb' not found in /home3/harhama/public_html/index.php:29
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/index.php on line 29
+[04-Feb-2020 01:48:06 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:50:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:50:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:55:35 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:22 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:28 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:37 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:48 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, string given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 01:59:54 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:04:26 America/Chicago] PHP Parse error:  syntax error, unexpected '$query' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in /home3/harhama/public_html/php/CreateDb.php on line 73
+[04-Feb-2020 02:04:34 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:07:07 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:07:09 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:07:16 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:11:08 America/Chicago] PHP Parse error:  syntax error, unexpected end of file in /home3/harhama/public_html/index.php on line 82
+[04-Feb-2020 02:11:18 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function mysqli_fetch_assoc() on null in /home3/harhama/public_html/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:11:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:13:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home3/harhama/public_html/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:13:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function mysqli_fetch_assoc() on null in /home3/harhama/public_html/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:13:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:15:58 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:16:00 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:16:08 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:16:27 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getData() on string in /home3/harhama/public_html/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:18:33 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/index.php on line 67
+[04-Feb-2020 02:22:36 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 02:22:36 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/cart.php on line 57
+[04-Feb-2020 02:22:43 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 02:22:43 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/cart.php on line 57
+[04-Feb-2020 02:22:55 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 02:22:55 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/cart.php on line 57
+[04-Feb-2020 02:23:14 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 02:23:14 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/cart.php on line 57
+[04-Feb-2020 02:25:03 America/Chicago] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home3/harhama/public_html/php/CreateDb.php on line 68
+[04-Feb-2020 02:25:03 America/Chicago] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home3/harhama/public_html/cart.php on line 57
+[04-Feb-2020 02:25:41 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method PDO::getData() in /home3/harhama/public_html/cart.php:56
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/cart.php on line 56
+[04-Feb-2020 02:28:36 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[04-Feb-2020 02:28:36 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:186) in /home3/harhama/public_html/resource/utilities.php on line 95
+[04-Feb-2020 02:29:18 America/Chicago] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home3/harhama/public_html/resource/utilities.php on line 185
+[04-Feb-2020 02:29:18 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[04-Feb-2020 02:29:18 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/resource/utilities.php:185) in /home3/harhama/public_html/resource/utilities.php on line 95
+[04-Feb-2020 02:59:04 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[04-Feb-2020 02:59:04 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/partials/headers.php:6) in /home3/harhama/public_html/resource/utilities.php on line 95
+[04-Feb-2020 03:04:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function cartElement() in /home3/harhama/public_html/cart.php:60
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/cart.php on line 60
+[04-Feb-2020 04:01:25 America/Chicago] PHP Warning:  include(../functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:25 America/Chicago] PHP Warning:  include(../functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:25 America/Chicago] PHP Warning:  include(): Failed opening '../functions.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_error() in /home3/harhama/public_html/create_user.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/create_user.php on line 23
+[04-Feb-2020 04:01:54 America/Chicago] PHP Warning:  include(/functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:54 America/Chicago] PHP Warning:  include(/functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:54 America/Chicago] PHP Warning:  include(): Failed opening '/functions.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/harhama/public_html/create_user.php on line 1
+[04-Feb-2020 04:01:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function display_error() in /home3/harhama/public_html/create_user.php:23
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/create_user.php on line 23
+[04-Feb-2020 04:02:02 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:02:47 America/Chicago] PHP Parse error:  syntax error, unexpected '<', expecting end of file in /home3/harhama/public_html/create_user.php on line 6
+[04-Feb-2020 04:03:05 America/Chicago] PHP Parse error:  syntax error, unexpected 'include' (T_INCLUDE) in /home3/harhama/public_html/create_user.php on line 6
+[04-Feb-2020 04:03:14 America/Chicago] PHP Warning:  session_regenerate_id(): Cannot regenerate session id - session is not active in /home3/harhama/public_html/resource/utilities.php on line 186
+[04-Feb-2020 04:03:14 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/partials/headers.php:6) in /home3/harhama/public_html/resource/utilities.php on line 95
+[04-Feb-2020 04:03:14 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/harhama/public_html/partials/headers.php:6) in /home3/harhama/public_html/functions.php on line 2
+[04-Feb-2020 04:03:14 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:03:40 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:03:55 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:04:15 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:04:23 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:05:21 America/Chicago] PHP Warning:  include(../functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:21 America/Chicago] PHP Warning:  include(../functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:21 America/Chicago] PHP Warning:  include(): Failed opening '../functions.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:21 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in /home3/harhama/public_html/home.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/home.php on line 4
+[04-Feb-2020 04:05:54 America/Chicago] PHP Warning:  include(/functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:54 America/Chicago] PHP Warning:  include(/functions.php): failed to open stream: No such file or directory in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:54 America/Chicago] PHP Warning:  include(): Failed opening '/functions.php' for inclusion (include_path='.:/opt/php71/lib/php') in /home3/harhama/public_html/home.php on line 2
+[04-Feb-2020 04:05:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in /home3/harhama/public_html/home.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/home.php on line 4
+[04-Feb-2020 04:06:00 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:06:00 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function isAdmin() in /home3/harhama/public_html/home.php:4
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/home.php on line 4
+[04-Feb-2020 04:07:31 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/harhama/public_html/functions.php on line 5
+[04-Feb-2020 04:07:31 America/Chicago] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/harhama/public_html/functions.php:5) in /home3/harhama/public_html/home.php on line 6
+[04-Feb-2020 04:07:31 America/Chicago] PHP Fatal error:  Cannot redeclare register() (previously declared in /home3/harhama/public_html/functions.php:20) in /home3/harhama/public_html/functions.php on line 67
+[04-Feb-2020 04:08:44 America/Chicago] PHP Fatal error:  Cannot redeclare register() (previously declared in /home3/harhama/public_html/functions.php:20) in /home3/harhama/public_html/functions.php on line 67
+[04-Feb-2020 04:19:29 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/harhama/public_html/public_profile.php on line 34
+[04-Feb-2020 04:19:54 America/Chicago] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home3/harhama/public_html/public_profile.php on line 40
+[04-Feb-2020 04:27:17 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in /home3/harhama/public_html/admin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/admin.php on line 33
+[04-Feb-2020 04:27:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function getData() on null in /home3/harhama/public_html/admin.php:33
+Stack trace:
+#0 {main}
+  thrown in /home3/harhama/public_html/admin.php on line 33
